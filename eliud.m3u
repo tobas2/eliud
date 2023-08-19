@@ -1,5 +1,2519 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png",A&E
-http://pe.shortgod.com/mmgv/tv1.php?id=1
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png",A&E HD
-http://pe.shortgod.com/mmgv/tv1.php?id=474
+#EXTINF:-1 ,RAKUTEN CINE ESPAÑOL
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/205533
+#EXTINF:-1 ,MY TIME MOVIE NETWORK
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/205534
+#EXTINF:-1 ,TASTEMADE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/205535
+#EXTINF:-1 ,HOLA PLAY
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/205536
+#EXTINF:-1 ,RAKUTEN TV - CINE ESPAÑOL SD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375694
+#EXTINF:-1 ,RAKUTEN TV - CINE ESPAÑOL HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375695
+#EXTINF:-1 ,RAKUTEN TV - THRILLER SD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375696
+#EXTINF:-1 ,RAKUTEN TV - THRILLER HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375697
+#EXTINF:-1 ,RAKUTEN TV - ROMANTICAS SD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375698
+#EXTINF:-1 ,RAKUTEN TV - ROMANTICAS HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375699
+#EXTINF:-1 ,RAKUTEN TV - TOP PELICULAS SD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375700
+#EXTINF:-1 ,RAKUTEN TV - TOP PELICULAS HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375701
+#EXTINF:-1 ,RAKUTEN TV - CONOCIMIENTO SD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375684
+#EXTINF:-1 ,RAKUTEN TV - CONOCIMIENTO HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375685
+#EXTINF:-1 ,RAKUTEN TV - EN FAMILIA SD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375686
+#EXTINF:-1 ,RAKUTEN TV - EN FAMILIA HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375687
+#EXTINF:-1 ,RAKUTEN TV - DRAMA SD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375688
+#EXTINF:-1 ,RAKUTEN TV - DRAMA HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375689
+#EXTINF:-1 ,RAKUTEN TV - COMEDIA SD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375690
+#EXTINF:-1 ,RAKUTEN TV - COMEDIA HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375691
+#EXTINF:-1 ,RAKUTEN TV - ACCION SD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375692
+#EXTINF:-1 ,RAKUTEN TV - ACCION HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375693
+#EXTINF:-1 ,RUNTIME THRILLER HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375674
+#EXTINF:-1 ,RUNTIME THRILLER SD PLUS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375675
+#EXTINF:-1 ,RUNTIME COMEDIA HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375676
+#EXTINF:-1 ,RUNTIME COMEDIA SD PLUS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375677
+#EXTINF:-1 ,RUNTIME ACCION HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375678
+#EXTINF:-1 ,RUNTIME ACCION SD PLUS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375679
+#EXTINF:-1 ,RUNTIME TRASH HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375680
+#EXTINF:-1 ,RUNTIME TRASH SD PLUS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375681
+#EXTINF:-1 ,RUNTIME CINE HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375682
+#EXTINF:-1 ,RUNTIME CINE SD PLUS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375683
+#EXTINF:-1 ,RUNTIME SERIES HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375664
+#EXTINF:-1 ,RUNTIME SERIES SD PLUS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375665
+#EXTINF:-1 ,RUNTIME CRIMEN HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375666
+#EXTINF:-1 ,RUNTIME CRIMEN SD PLUS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375667
+#EXTINF:-1 ,RUNTIME CLASICOS HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375668
+#EXTINF:-1 ,RUNTIME CLASICOS SD PLUS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375669
+#EXTINF:-1 ,RUNTIME ROMANCE HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375670
+#EXTINF:-1 ,RUNTIME ROMANCE SD PLUS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375671
+#EXTINF:-1 ,RUNTIME CRIMEN HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375672
+#EXTINF:-1 ,RUNTIME CRIMEN SD PLUS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375673
+#EXTINF:-1 ,RUNTIME CRIMEN HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375662
+#EXTINF:-1 ,RUNTIME CRIMEN SD PLUS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/375663
+#EXTINF:-1 ,24/7 I | Angry Birds
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225948
+#EXTINF:-1 ,24/7 I | Autobus Magico
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225949
+#EXTINF:-1 ,24/7 I | Barbie
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225950
+#EXTINF:-1 ,24/7 I | Ben Y Holly (Castellano)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225951
+#EXTINF:-1 ,24/7 I | Coraje el Perro Cobarde
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225952
+#EXTINF:-1 ,24/7 I | Digimon
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225953
+#EXTINF:-1 ,24/7 I | Don Gato y Su Pandilla
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225954
+#EXTINF:-1 ,24/7 I | Dora y Sus Amigos En La Ciudad
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225955
+#EXTINF:-1 ,24/7 I | El Chavo Del 8
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225956
+#EXTINF:-1 ,24/7 I | El Conde Pátula
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225957
+#EXTINF:-1 ,24/7 I | El Reto de los Super Amigos
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225958
+#EXTINF:-1 ,24/7 I | Gasparin y Sus Amigos
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225959
+#EXTINF:-1 ,24/7 I | Halcones Galacticos
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225960
+#EXTINF:-1 ,24/7 I | Hey Arnold
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225961
+#EXTINF:-1 ,24/7 I | Hombres de Negro
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225962
+#EXTINF:-1 ,24/7 I | Johnny Bravo
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225963
+#EXTINF:-1 ,24/7 I | La Casa De Mickey Mouse
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225964
+#EXTINF:-1 ,24/7 I | La Pantera Rosa
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225965
+#EXTINF:-1 ,24/7 I | La Vaca y El Pollito
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225966
+#EXTINF:-1 ,24/7 I | Las Chicas Superpoderosas
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225967
+#EXTINF:-1 ,24/7 I | Lego World
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225968
+#EXTINF:-1 ,24/7 I | Los Castores Cascarrabias
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225969
+#EXTINF:-1 ,24/7 I | Los Pequeños Picapiedras
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225970
+#EXTINF:-1 ,24/7 I | Los Picapiedras
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225971
+#EXTINF:-1 ,24/7 I | Los Pitufos
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225972
+#EXTINF:-1 ,24/7 I | Los Supersonicos
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225973
+#EXTINF:-1 ,24/7 I | Masha y el oso
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225974
+#EXTINF:-1 ,24/7 I | Pajaro Loco
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225975
+#EXTINF:-1 ,24/7 I | Patrulla Canina
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225976
+#EXTINF:-1 ,24/7 I | Pinguinos De Madagascar
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225977
+#EXTINF:-1 ,24/7 I | Scooby-Doo
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225978
+#EXTINF:-1 ,24/7 I | Super Campeones
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225979
+#EXTINF:-1 ,24/7 I | Thundercats
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225980
+#EXTINF:-1 ,24/7 I | Timon & Pumba
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225981
+#EXTINF:-1 ,24/7 P | 50 Clasicos de Disney
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225982
+#EXTINF:-1 ,24/7 P | A Happy Madison
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225983
+#EXTINF:-1 ,24/7 P | Cinema Accion Full HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225984
+#EXTINF:-1 ,24/7 P | Cinema Dreamworks Full HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225985
+#EXTINF:-1 ,24/7 P | Cinema Familia Full HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225986
+#EXTINF:-1 ,24/7 P | Cinema Horror Full HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225987
+#EXTINF:-1 ,24/7 P | Cinema Marvel Studio Full HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225988
+#EXTINF:-1 ,24/7 P | CINEMA VIP 01 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225989
+#EXTINF:-1 ,24/7 P | CINEMA VIP 02 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225990
+#EXTINF:-1 ,24/7 P | CINEMA VIP 03 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225991
+#EXTINF:-1 ,24/7 P | CINEMA VIP 04 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225992
+#EXTINF:-1 ,24/7 P | CINEMA VIP 05 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225993
+#EXTINF:-1 ,24/7 P | CINEMA VIP 06 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225994
+#EXTINF:-1 ,24/7 P | CINEMA VIP 07 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225995
+#EXTINF:-1 ,24/7 P | CINEMA VIP 08 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225996
+#EXTINF:-1 ,24/7 P | CINEMA VIP 09 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225997
+#EXTINF:-1 ,24/7 P | CINEMA VIP 10 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225998
+#EXTINF:-1 ,24/7 P | CINEMA VIP 11 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/225999
+#EXTINF:-1 ,24/7 P | CINEMA VIP 12 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226000
+#EXTINF:-1 ,24/7 P | Marvel Cine Animations
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226001
+#EXTINF:-1 ,24/7 P | ULTRA Estrenos
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226002
+#EXTINF:-1 ,24/7 P | Zombies
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226003
+#EXTINF:-1 ,24/7 P | Cantinflas
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226004
+#EXTINF:-1 ,24/7 S| 1000 Maneras de Morir
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226005
+#EXTINF:-1 ,24/7 S| 40 y 20
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226006
+#EXTINF:-1 ,24/7 S| Al diablo los Guapos
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226007
+#EXTINF:-1 ,24/7 S| Alegrijes y Rebujos
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226008
+#EXTINF:-1 ,24/7 S| Alerta Aeropuerto
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226009
+#EXTINF:-1 ,24/7 S| ALF
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226010
+#EXTINF:-1 ,24/7 S| American Horror Story T1-4
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226011
+#EXTINF:-1 ,24/7 S| Años Maravillosos
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226012
+#EXTINF:-1 ,24/7 S| Casita de Terror Simpson
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226013
+#EXTINF:-1 ,24/7 S| Caso Cerrado
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226014
+#EXTINF:-1 ,24/7 S| Cobra Kai HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226015
+#EXTINF:-1 ,24/7 S| Dragon Ball GT
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226016
+#EXTINF:-1 ,24/7 S| El Chapulin Colorado
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226017
+#EXTINF:-1 ,24/7 S| El Chavo del 8
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226018
+#EXTINF:-1 ,24/7 S| El Zorro T 1-2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226019
+#EXTINF:-1 ,24/7 S| El Zorro T3-4
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226020
+#EXTINF:-1 ,24/7 S| Freddy’s Nightmares
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226021
+#EXTINF:-1 ,24/7 S| Futurama T1-4
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226022
+#EXTINF:-1 ,24/7 S| Futurama T5-7
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226023
+#EXTINF:-1 ,24/7 S| La Hora Pico
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226024
+#EXTINF:-1 ,24/7 S| Los 3 Chiflados
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226025
+#EXTINF:-1 ,24/7 S| Los Simpsons T20-25
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226026
+#EXTINF:-1 ,24/7 S| Los Simpsons T6-10
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226027
+#EXTINF:-1 ,24/7 S| Los Simpsons [Aleatorio]
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226028
+#EXTINF:-1 ,24/7 S| Malcolm el de en medio T1-3
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226029
+#EXTINF:-1 ,24/7 S| Malcolm el de en medio T4-7
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226030
+#EXTINF:-1 ,24/7 S| Master Chef MX T1-3
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226031
+#EXTINF:-1 ,24/7 S| Master Chef MX T4-5 ®
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226032
+#EXTINF:-1 ,24/7 S| Minuto para ganar T1-2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226033
+#EXTINF:-1 ,24/7 S| Nanatsu no Taizai T3
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226034
+#EXTINF:-1 ,24/7 S| Padre De Familia TEMP 1-5
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226035
+#EXTINF:-1 ,24/7 S| Saint Seiya Las 12 Casas
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226036
+#EXTINF:-1 ,24/7 S| Saint Seiya Torneo Galactico
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226037
+#EXTINF:-1 ,24/7 S| Shark Tank Colombia T1-3
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226038
+#EXTINF:-1 ,24/7 S| Shark Tank Mexico T4-5 ®
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226039
+#EXTINF:-1 ,24/7 S| South Park TEMP 1-5
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226040
+#EXTINF:-1 ,24/7 S| Una Familia de Diez TEMP 1-5
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226041
+#EXTINF:-1 ,24/7 S| Vecinos TEMP 7-9
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226042
+#EXTINF:-1 ,24/7 S| Viaje Al Fondo Del Mar
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/226043
+#EXTINF:-1 ,#### United States ####
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370710
+#EXTINF:-1 ,===&gt; US | LIVE TV &lt;===
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370711
+#EXTINF:-1 ,US: A&E HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370712
+#EXTINF:-1 ,US: ABC HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370713
+#EXTINF:-1 ,US: ABC NEWS HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370714
+#EXTINF:-1 ,US: ACC Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370715
+#EXTINF:-1 ,US: ACTIONMAX
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370716
+#EXTINF:-1 ,US: Eleven  Sports Network HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370717
+#EXTINF:-1 ,US: AKC TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370718
+#EXTINF:-1 ,US: AMC HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370719
+#EXTINF:-1 ,US: AMERICAN HEROES CHANNEL
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370720
+#EXTINF:-1 ,US: Animal Planet East HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370721
+#EXTINF:-1 ,US: Animal Planet West
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370722
+#EXTINF:-1 ,US: Antenna TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370723
+#EXTINF:-1 ,US: AT&T Sportsnet South West
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370724
+#EXTINF:-1 ,US: AWE A Wealth of Entertainment
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370725
+#EXTINF:-1 ,US: AXS TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370726
+#EXTINF:-1 ,US: BabyTV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370727
+#EXTINF:-1 ,US: BBC America
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370728
+#EXTINF:-1 ,US: BBC World News
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370729
+#EXTINF:-1 ,US: BET
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370730
+#EXTINF:-1 ,US: BET Jams
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370731
+#EXTINF:-1 ,US: BET Soul
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370732
+#EXTINF:-1 ,US: BET HER HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370733
+#EXTINF:-1 ,US: Big Ten Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370734
+#EXTINF:-1 ,US: Bloomberg
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370735
+#EXTINF:-1 ,US: Boomerang
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370736
+#EXTINF:-1 ,US: Bounce TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370737
+#EXTINF:-1 ,US: Bravo East  HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370738
+#EXTINF:-1 ,US: Bravo West
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370739
+#EXTINF:-1 ,US: Buzzr
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370740
+#EXTINF:-1 ,US: C-Span 1
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370741
+#EXTINF:-1 ,US: C-Span 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370742
+#EXTINF:-1 ,US: C-Span 3
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370743
+#EXTINF:-1 ,US: CARTOON NETWORK
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370744
+#EXTINF:-1 ,US: CBS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370745
+#EXTINF:-1 ,US: CBS Sports Network HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370746
+#EXTINF:-1 ,US: Cheddar News
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370747
+#EXTINF:-1 ,US: Cinemax 5StarMax
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370748
+#EXTINF:-1 ,US: CINEMAX EAST
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370749
+#EXTINF:-1 ,US: CMT
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370750
+#EXTINF:-1 ,US: CNBC
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370751
+#EXTINF:-1 ,US: CNBC WORLD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370752
+#EXTINF:-1 ,US: CNN HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370753
+#EXTINF:-1 ,US: COMEDY CENTRAL HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370754
+#EXTINF:-1 ,US: COMEDY CENTRAL West
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370755
+#EXTINF:-1 ,US: Comet
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370756
+#EXTINF:-1 ,US: Cooking Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370757
+#EXTINF:-1 ,US: Court TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370758
+#EXTINF:-1 ,US: COZI TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370759
+#EXTINF:-1 ,US: Destination America
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370760
+#EXTINF:-1 ,US: Discovery Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370761
+#EXTINF:-1 ,US: Discovery Family
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370762
+#EXTINF:-1 ,US: Discovery Life
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370763
+#EXTINF:-1 ,US: Discovery Science HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370764
+#EXTINF:-1 ,US: Discovery West
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370765
+#EXTINF:-1 ,US: Disney Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370766
+#EXTINF:-1 ,US: Disney XD HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370767
+#EXTINF:-1 ,US: DIY Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370768
+#EXTINF:-1 ,US: E! Entertainment West
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370769
+#EXTINF:-1 ,US:  E! Entertainment East
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370770
+#EXTINF:-1 ,US: WWE NETWORK  HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370771
+#EXTINF:-1 ,US: EPIX
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370772
+#EXTINF:-1 ,US: EPIX 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370773
+#EXTINF:-1 ,US: EPIX Drive-In
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370774
+#EXTINF:-1 ,US: EPIX Hits
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370775
+#EXTINF:-1 ,US: ESPN
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370776
+#EXTINF:-1 ,US: ESPN 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370777
+#EXTINF:-1 ,US: ESPN DEPORTES
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370778
+#EXTINF:-1 ,US: ESPN News US HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370779
+#EXTINF:-1 ,US: ESPN U HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370780
+#EXTINF:-1 ,US: Food Network HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370781
+#EXTINF:-1 ,US: Food Network West
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370782
+#EXTINF:-1 ,US: Fox Business
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370783
+#EXTINF:-1 ,US: FOX COLLEGE SPORTS ATLANTIC HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370784
+#EXTINF:-1 ,US: FOX COLLEGE SPORTS CENTRAL HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370785
+#EXTINF:-1 ,US: FOX COLLEGE SPORTS PACIFIC
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370786
+#EXTINF:-1 ,US: Fox Deportes
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370787
+#EXTINF:-1 ,US: Fox Deportes LHD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370788
+#EXTINF:-1 ,US: FOX NEWS HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370789
+#EXTINF:-1 ,US: Fox Soccer Plus
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370790
+#EXTINF:-1 ,US: Fox Sports 1 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370791
+#EXTINF:-1 ,US: Fox Sports 2 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370792
+#EXTINF:-1 ,US: Fox Sports ARIZONA
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370793
+#EXTINF:-1 ,US: Fox Sports DETROIT
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370794
+#EXTINF:-1 ,US: Fox Sports FLORIDA
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370795
+#EXTINF:-1 ,US: FOX SPORTS MIDWEST
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370796
+#EXTINF:-1 ,US: Fox Sports NEW ORLEANS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370797
+#EXTINF:-1 ,US: Fox Sports NORTH
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370798
+#EXTINF:-1 ,US: Fox Sports OHIO
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370799
+#EXTINF:-1 ,US: Bally Sports Oklahoma Plus HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370800
+#EXTINF:-1 ,US: Fox Sports PRIME TICKET
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370801
+#EXTINF:-1 ,US: FOX SPORTS SAN DIEGO
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370802
+#EXTINF:-1 ,US: Fox Sports SOUTH
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370803
+#EXTINF:-1 ,US: Fox Sports SOUTHEAST
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370804
+#EXTINF:-1 ,US: Fox Sports SOUTHWEST
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370805
+#EXTINF:-1 ,US: FOX SPORTS SPORTSTIME OHIO
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370806
+#EXTINF:-1 ,US: Fox Sports SUN
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370807
+#EXTINF:-1 ,US: Fox Sports TENNESSEE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370808
+#EXTINF:-1 ,US: Fox Sports WEST
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370809
+#EXTINF:-1 ,US: Fox Sports WISCONSIN
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370810
+#EXTINF:-1 ,US: Freeform
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370811
+#EXTINF:-1 ,US: Fuse
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370812
+#EXTINF:-1 ,US: Fusion
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370813
+#EXTINF:-1 ,US: FX HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370814
+#EXTINF:-1 ,US: FXM Retro
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370815
+#EXTINF:-1 ,US: FXX
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370816
+#EXTINF:-1 ,US: FYI
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370817
+#EXTINF:-1 ,US: Get TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370818
+#EXTINF:-1 ,US: GINX ESports
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370819
+#EXTINF:-1 ,US: Golf Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370820
+#EXTINF:-1 ,US: Gone Fishing
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370821
+#EXTINF:-1 ,US: Great American Country
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370822
+#EXTINF:-1 ,US: Grit TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370823
+#EXTINF:-1 ,US: TLC  HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370824
+#EXTINF:-1 ,US: H2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370825
+#EXTINF:-1 ,US: HALLMARK
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370826
+#EXTINF:-1 ,US: Hallmark Drama
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370827
+#EXTINF:-1 ,US: Hallmark Movies & Mysteries HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370828
+#EXTINF:-1 ,US: HBO 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370829
+#EXTINF:-1 ,US: HBO Comedy
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370830
+#EXTINF:-1 ,US: HBO Family
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370831
+#EXTINF:-1 ,US: HBO HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370832
+#EXTINF:-1 ,US: HBO LATINO
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370833
+#EXTINF:-1 ,US: HBO Signature
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370834
+#EXTINF:-1 ,US: HBO Zone
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370835
+#EXTINF:-1 ,US: HDNet Movies
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370836
+#EXTINF:-1 ,US: Heros & Icons
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370837
+#EXTINF:-1 ,US: HGTV HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370838
+#EXTINF:-1 ,US: HGTV West
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370839
+#EXTINF:-1 ,US: HISTORY HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370840
+#EXTINF:-1 ,US: HLN
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370841
+#EXTINF:-1 ,US: HSN
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370842
+#EXTINF:-1 ,US: Hunt Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370843
+#EXTINF:-1 ,US: IFC
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370844
+#EXTINF:-1 ,US: IndiePlex
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370845
+#EXTINF:-1 ,US: INSP
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370846
+#EXTINF:-1 ,US: Investigation Discovery
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370847
+#EXTINF:-1 ,US: ION Television
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370848
+#EXTINF:-1 ,US: Law & Crime Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370849
+#EXTINF:-1 ,US: Lifetime
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370850
+#EXTINF:-1 ,US: Lifetime Movie Network HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370851
+#EXTINF:-1 ,US: PEOPLE TV  HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370852
+#EXTINF:-1 ,US: Logo
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370853
+#EXTINF:-1 ,US: MavTV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370854
+#EXTINF:-1 ,US: Me TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370855
+#EXTINF:-1 ,US: MLB Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370856
+#EXTINF:-1 ,US: MoreMax
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370857
+#EXTINF:-1 ,US: Motor Trend
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370858
+#EXTINF:-1 ,US: MOVIEMAX
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370859
+#EXTINF:-1 ,US: MoviePlex
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370860
+#EXTINF:-1 ,US: MSG 2 +
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370861
+#EXTINF:-1 ,US: MSG HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370862
+#EXTINF:-1 ,US: MSG+
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370863
+#EXTINF:-1 ,US: MSNBC
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370864
+#EXTINF:-1 ,US: MTV 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370865
+#EXTINF:-1 ,US: MTV Classic
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370866
+#EXTINF:-1 ,US: MTV HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370867
+#EXTINF:-1 ,US: MTV LivE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370868
+#EXTINF:-1 ,US: Nat Geo Wild
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370869
+#EXTINF:-1 ,US: National Geographic
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370870
+#EXTINF:-1 ,US: NBA TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370871
+#EXTINF:-1 ,US: NBC
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370872
+#EXTINF:-1 ,USA: NBC Dallas
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370873
+#EXTINF:-1 ,USA: FOX Dallas
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370874
+#EXTINF:-1 ,USA: CBS Dallas
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370875
+#EXTINF:-1 ,USA: ABC Dallas
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370876
+#EXTINF:-1 ,US: NBC Universo
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370877
+#EXTINF:-1 ,US: NBCSN
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370878
+#EXTINF:-1 ,US: NBCSN BOSTON
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370879
+#EXTINF:-1 ,US: NBCSN Chicago
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370880
+#EXTINF:-1 ,US: NBCSN CHICAGO PLUS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370881
+#EXTINF:-1 ,US: NBCSN HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370882
+#EXTINF:-1 ,US: NBCSN NORTHWEST
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370883
+#EXTINF:-1 ,US: NBCSN PHILADELPHIA
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370884
+#EXTINF:-1 ,US: NBCSN WASHINGTON
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370885
+#EXTINF:-1 ,US: NECN
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370886
+#EXTINF:-1 ,US: NESN
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370887
+#EXTINF:-1 ,US: NESN PLUS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370888
+#EXTINF:-1 ,US: Newsy
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370889
+#EXTINF:-1 ,US: NFL Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370890
+#EXTINF:-1 ,US: NFL REDZONE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370891
+#EXTINF:-1 ,US: NHL Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370892
+#EXTINF:-1 ,US: Nick Music
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370893
+#EXTINF:-1 ,US: Nickelodeon HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370894
+#EXTINF:-1 ,US: Nicktoons
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370895
+#EXTINF:-1 ,US: Smithsonian Channel HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370896
+#EXTINF:-1 ,US: One American Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370897
+#EXTINF:-1 ,US: OUTDOOR CHANNEL HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370898
+#EXTINF:-1 ,US: Outermax
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370899
+#EXTINF:-1 ,US: Outside TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370900
+#EXTINF:-1 ,US: OVATION
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370901
+#EXTINF:-1 ,US: OWN HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370902
+#EXTINF:-1 ,US: Oxygen
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370903
+#EXTINF:-1 ,US: Oxygen West
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370904
+#EXTINF:-1 ,US: PAC-12 Arizona
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370905
+#EXTINF:-1 ,US: PAC-12 Bay Area
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370906
+#EXTINF:-1 ,US: PAC-12 Los Angeles
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370907
+#EXTINF:-1 ,US: PAC-12 MOUNTAIN HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370908
+#EXTINF:-1 ,US: PAC-12 NATIONAL HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370909
+#EXTINF:-1 ,US: PAC-12 Oregon
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370910
+#EXTINF:-1 ,US: PAC-12 Washington
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370911
+#EXTINF:-1 ,US: Paramount
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370912
+#EXTINF:-1 ,US: PBS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370913
+#EXTINF:-1 ,US: PBS Kids
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370914
+#EXTINF:-1 ,US: PixL
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370915
+#EXTINF:-1 ,US: Pursuit
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370916
+#EXTINF:-1 ,US: QVC
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370917
+#EXTINF:-1 ,US: QVC 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370918
+#EXTINF:-1 ,US: QVC 3
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370919
+#EXTINF:-1 ,US: Red Bull TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370920
+#EXTINF:-1 ,US: Reelz Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370921
+#EXTINF:-1 ,US: RetroPlex
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370922
+#EXTINF:-1 ,US: Revolt
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370923
+#EXTINF:-1 ,US: RFD-TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370924
+#EXTINF:-1 ,US: Knight Ride
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370925
+#EXTINF:-1 ,US: SEC Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370926
+#EXTINF:-1 ,US: Showtime 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370927
+#EXTINF:-1 ,US: SHOWTIME BEYOND / SHO + BET
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370928
+#EXTINF:-1 ,US: Showtime Extreme
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370929
+#EXTINF:-1 ,US: Showtime Family Zone
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370930
+#EXTINF:-1 ,US: SHOWTIME HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370931
+#EXTINF:-1 ,US: SHOWTIME NEXT
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370932
+#EXTINF:-1 ,US: SHOWTIME SHOWCASE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370933
+#EXTINF:-1 ,US: Showtime Women
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370934
+#EXTINF:-1 ,US: Smithsonian Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370935
+#EXTINF:-1 ,US: SNY
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370936
+#EXTINF:-1 ,US: THE MOVIE HUB
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370937
+#EXTINF:-1 ,US: SPECTRUM SPORTSNET  LA Dodgers HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370938
+#EXTINF:-1 ,US: Sportsman Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370939
+#EXTINF:-1 ,US: Sportsnet 360 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370940
+#EXTINF:-1 ,US: Sportsnet NW
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370941
+#EXTINF:-1 ,US: SPORTSNET ONE HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370942
+#EXTINF:-1 ,US: SPORTSNET ONTARIO HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370943
+#EXTINF:-1 ,US: SPORTSNET WEST HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370944
+#EXTINF:-1 ,US: SPORTSNET WORLD HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370945
+#EXTINF:-1 ,US: Stadium 1
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370946
+#EXTINF:-1 ,US: Stadium 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370947
+#EXTINF:-1 ,US: Stadium
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370948
+#EXTINF:-1 ,US: USA Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370949
+#EXTINF:-1 ,US: STADIUM  1
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370950
+#EXTINF:-1 ,US: START TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370951
+#EXTINF:-1 ,US: Starz
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370952
+#EXTINF:-1 ,US: Starz Cinema
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370953
+#EXTINF:-1 ,US: Starz Comedy
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370954
+#EXTINF:-1 ,US: STARZ EDGE HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370955
+#EXTINF:-1 ,US: Starz Encore
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370956
+#EXTINF:-1 ,US: Starz Encore Action
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370957
+#EXTINF:-1 ,US: Starz Encore Black
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370958
+#EXTINF:-1 ,US: Starz Encore Classic
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370959
+#EXTINF:-1 ,US: STARZ ENCORE ESPAñOL
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370960
+#EXTINF:-1 ,US: Starz Encore Family
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370961
+#EXTINF:-1 ,US: Starz Encore Suspense
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370962
+#EXTINF:-1 ,US: STARZ ENCORE WEST
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370963
+#EXTINF:-1 ,US: Starz Encore Western
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370964
+#EXTINF:-1 ,US: Starz in Black
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370965
+#EXTINF:-1 ,US: Starz Kids & Family
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370966
+#EXTINF:-1 ,US: Sundance TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370967
+#EXTINF:-1 ,US: SYFY HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370968
+#EXTINF:-1 ,US: TASTEMADE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370969
+#EXTINF:-1 ,US: TBS HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370970
+#EXTINF:-1 ,US: Teen Nick
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370971
+#EXTINF:-1 ,US: Telemundo
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370972
+#EXTINF:-1 ,US: Telemundo (Las Vegas) KBLR
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370973
+#EXTINF:-1 ,US: Telemundo 51 Miami WSCV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370974
+#EXTINF:-1 ,US: TELEMUNDO (HARTFORD) | HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370975
+#EXTINF:-1 ,US: Telemundo Sacramento 3 KCSO
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370976
+#EXTINF:-1 ,US: Tennis Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370977
+#EXTINF:-1 ,US: The Blaze
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370978
+#EXTINF:-1 ,US: The Cowboy Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370979
+#EXTINF:-1 ,US: The CW
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370980
+#EXTINF:-1 ,US: THE FIGHT NETWORK
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370981
+#EXTINF:-1 ,US: The Longhorn Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370982
+#EXTINF:-1 ,US: The Weather Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370983
+#EXTINF:-1 ,US: THE WORD NETWORK
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370984
+#EXTINF:-1 ,US: THRILLERMAX
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370985
+#EXTINF:-1 ,US: TLC HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370986
+#EXTINF:-1 ,US: TNT HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370987
+#EXTINF:-1 ,US: Travel Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370988
+#EXTINF:-1 ,US: Travel Channel West
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370989
+#EXTINF:-1 ,US: Tru TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370990
+#EXTINF:-1 ,US: TSN 1
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370991
+#EXTINF:-1 ,US: TSN 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370992
+#EXTINF:-1 ,US: TSN 3
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370993
+#EXTINF:-1 ,US: TSN 4 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370994
+#EXTINF:-1 ,US: TSN 5
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370995
+#EXTINF:-1 ,US: TV Land
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370996
+#EXTINF:-1 ,US: TV One
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370997
+#EXTINF:-1 ,US: TVG
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370998
+#EXTINF:-1 ,US: TVG NETWORK
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/370999
+#EXTINF:-1 ,US: DIY Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371000
+#EXTINF:-1 ,US: Unimas
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371001
+#EXTINF:-1 ,US: Universal Kids
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371002
+#EXTINF:-1 ,US: Univision
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371003
+#EXTINF:-1 ,US: USA Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371004
+#EXTINF:-1 ,US: USA Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371005
+#EXTINF:-1 ,US: VH1 HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371006
+#EXTINF:-1 ,US: Viceland
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371007
+#EXTINF:-1 ,US:  PURSUIT CHANNEL
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371008
+#EXTINF:-1 ,US: We TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371009
+#EXTINF:-1 ,US: WGN America
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371010
+#EXTINF:-1 ,US: Willow Cricket
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371011
+#EXTINF:-1 ,US: World Fishing Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371012
+#EXTINF:-1 ,US: WPIX New York
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371013
+#EXTINF:-1 ,US: Yes Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371014
+#EXTINF:-1 ,USA | NFL Networkⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371015
+#EXTINF:-1 ,USA | MLB Networkⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371016
+#EXTINF:-1 ,NY WABCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371017
+#EXTINF:-1 ,GA WSBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371018
+#EXTINF:-1 ,MD WMARⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371019
+#EXTINF:-1 ,NC WSOCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371020
+#EXTINF:-1 ,IL WLSⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371021
+#EXTINF:-1 ,OH WEWSⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371022
+#EXTINF:-1 ,CO KMGHⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371023
+#EXTINF:-1 ,MI WXYZⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371024
+#EXTINF:-1 ,CA KFSNⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371025
+#EXTINF:-1 ,TX KTRKⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371026
+#EXTINF:-1 ,IN WRTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371027
+#EXTINF:-1 ,FL WPLGⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371028
+#EXTINF:-1 ,WI WISNⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371029
+#EXTINF:-1 ,FL WFTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371030
+#EXTINF:-1 ,AZ KNXVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371031
+#EXTINF:-1 ,PA WTAEⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371032
+#EXTINF:-1 ,OR KATUⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371033
+#EXTINF:-1 ,NC WTVDⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371034
+#EXTINF:-1 ,CA KXTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371035
+#EXTINF:-1 ,UT KTVXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371036
+#EXTINF:-1 ,TX KSATⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371037
+#EXTINF:-1 ,CA KGTV ⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371038
+#EXTINF:-1 ,WA KOMOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371039
+#EXTINF:-1 ,MI KDNLⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371040
+#EXTINF:-1 ,USA | ABC Eastⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371041
+#EXTINF:-1 ,CA KABCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371042
+#EXTINF:-1 ,TN WKRNⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371043
+#EXTINF:-1 ,USA | ABC News Liveⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371044
+#EXTINF:-1 ,PA WPVIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371045
+#EXTINF:-1 ,MN KSTPⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371046
+#EXTINF:-1 ,KY WTVQⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371047
+#EXTINF:-1 ,TX KTVTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371048
+#EXTINF:-1 ,CA KCBSⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371049
+#EXTINF:-1 ,NY WCBSⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371050
+#EXTINF:-1 ,MD WJZⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371051
+#EXTINF:-1 ,MA WBZⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371052
+#EXTINF:-1 ,NC WBTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371053
+#EXTINF:-1 ,IL WBBMⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371054
+#EXTINF:-1 ,OH WOIOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371055
+#EXTINF:-1 ,OH WBNSⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371056
+#EXTINF:-1 ,MI WWJⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371057
+#EXTINF:-1 ,NC WFMYⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371058
+#EXTINF:-1 ,CT WFSBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371059
+#EXTINF:-1 ,TX KHOUⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371060
+#EXTINF:-1 ,FL WJAXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371061
+#EXTINF:-1 ,MO KCTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371062
+#EXTINF:-1 ,FL WFORⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371063
+#EXTINF:-1 ,WI WDJTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371064
+#EXTINF:-1 ,MN WCCOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371065
+#EXTINF:-1 ,TN WTVFⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371066
+#EXTINF:-1 ,LA WWLⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371067
+#EXTINF:-1 ,FL WKMGⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371068
+#EXTINF:-1 ,PA KYWⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371069
+#EXTINF:-1 ,AZ KPHO ⓧ FHD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371070
+#EXTINF:-1 ,CA KOVRⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371071
+#EXTINF:-1 ,TX KENSⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371072
+#EXTINF:-1 ,CA KPIXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371073
+#EXTINF:-1 ,WA KIROⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371074
+#EXTINF:-1 ,MO KMOVⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371075
+#EXTINF:-1 ,FL WTSPⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371076
+#EXTINF:-1 ,DC WUSAⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371077
+#EXTINF:-1 ,TN WVLTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371078
+#EXTINF:-1 ,USA | CBS Eastⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371079
+#EXTINF:-1 ,USA | CBS Eastⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371080
+#EXTINF:-1 ,USA | CBS Sports Networkⓧ FHD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371081
+#EXTINF:-1 ,USA | CBS Sports Networkⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371082
+#EXTINF:-1 ,USA | CBS Sports Networkⓧ SD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371083
+#EXTINF:-1 ,USA | CBSNⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371084
+#EXTINF:-1 ,OH WKRCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371085
+#EXTINF:-1 ,TX KWTXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371086
+#EXTINF:-1 ,NC WNCNⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371087
+#EXTINF:-1 ,CO KUSAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371088
+#EXTINF:-1 ,CA KNBCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371089
+#EXTINF:-1 ,USA | NBC New York WNBCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371090
+#EXTINF:-1 ,USA | NBC Sports Bay Areaⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371091
+#EXTINF:-1 ,USA | NBC Sports Bostonⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371092
+#EXTINF:-1 ,USA | NBC Sports Californiaⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371093
+#EXTINF:-1 ,USA | NBC Sports Chicagoⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371094
+#EXTINF:-1 ,USA | NBC Sports Chicago Plusⓧ FHD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371095
+#EXTINF:-1 ,USA | NBC Sports Philadelphiaⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371096
+#EXTINF:-1 ,USA | NBC Sports Washingtonⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371097
+#EXTINF:-1 ,USA | SportsNet New Yorkⓧ FHD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371098
+#EXTINF:-1 ,USA | NBC Eastⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371099
+#EXTINF:-1 ,USA | FUBO Sports Networkⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371100
+#EXTINF:-1 ,USA | NBC Westⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371101
+#EXTINF:-1 ,MA WBTSⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371102
+#EXTINF:-1 ,NY WGRZⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371103
+#EXTINF:-1 ,IL WMAQⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371104
+#EXTINF:-1 ,OH WKYCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371105
+#EXTINF:-1 ,MI WDIVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371106
+#EXTINF:-1 ,CT WVITⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371107
+#EXTINF:-1 ,TX KPRCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371108
+#EXTINF:-1 ,IN WTHRⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371109
+#EXTINF:-1 ,FL WTLVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371110
+#EXTINF:-1 ,FL WTVJⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371111
+#EXTINF:-1 ,LA WDSUⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371112
+#EXTINF:-1 ,FL WESHⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371113
+#EXTINF:-1 ,PA WCAUⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371114
+#EXTINF:-1 ,AZ KPNXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371115
+#EXTINF:-1 ,OR KGWⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371116
+#EXTINF:-1 ,NC WRALⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371117
+#EXTINF:-1 ,UT KSLⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371118
+#EXTINF:-1 ,CA KNSDⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371119
+#EXTINF:-1 ,CA KNTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371120
+#EXTINF:-1 ,WA KINGⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371121
+#EXTINF:-1 ,MO KSDKⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371122
+#EXTINF:-1 ,OH WFMJⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371123
+#EXTINF:-1 ,IA KWWLⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371124
+#EXTINF:-1 ,FL WPTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371125
+#EXTINF:-1 ,KS KSNWⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371126
+#EXTINF:-1 ,NC WECTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371127
+#EXTINF:-1 ,FL WTWCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371128
+#EXTINF:-1 ,IN WTWOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371129
+#EXTINF:-1 ,KS KSNTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371130
+#EXTINF:-1 ,MI WPBNⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371131
+#EXTINF:-1 ,AZ KVOAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371132
+#EXTINF:-1 ,ID KTFTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371133
+#EXTINF:-1 ,MI WLUCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371134
+#EXTINF:-1 ,NY WBNGⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371135
+#EXTINF:-1 ,TX KTALⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371136
+#EXTINF:-1 ,IA KTIVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371137
+#EXTINF:-1 ,IN WNDUⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371138
+#EXTINF:-1 ,WA KHQⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371139
+#EXTINF:-1 ,MO KYTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371140
+#EXTINF:-1 ,CA KSBYⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371141
+#EXTINF:-1 ,USA: NBC 10 (PROVIDENCE) HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371142
+#EXTINF:-1 ,MN KTTCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371143
+#EXTINF:-1 ,IL WREXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371144
+#EXTINF:-1 ,TX  KRBCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371145
+#EXTINF:-1 ,GA WALBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371146
+#EXTINF:-1 ,LA KALBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371147
+#EXTINF:-1 ,AL KTUUⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371148
+#EXTINF:-1 ,GA WXIAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371149
+#EXTINF:-1 ,GA WAGTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371150
+#EXTINF:-1 ,CA KGETⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371151
+#EXTINF:-1 ,MD WBALⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371152
+#EXTINF:-1 ,ME WLBZⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371153
+#EXTINF:-1 ,LA WVLAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371154
+#EXTINF:-1 ,TX KBMTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371155
+#EXTINF:-1 ,AL WVTMⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371156
+#EXTINF:-1 ,USA | NBC SPORTS (BAY AREA) | HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371157
+#EXTINF:-1 ,IL WEEKⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371158
+#EXTINF:-1 ,ID KTVBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371159
+#EXTINF:-1 ,MT KTVMⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371160
+#EXTINF:-1 ,CO KOAAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371161
+#EXTINF:-1 ,GA WLTZⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371162
+#EXTINF:-1 ,RI WJARⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371163
+#EXTINF:-1 ,IL WANDⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371164
+#EXTINF:-1 ,IA WHOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371165
+#EXTINF:-1 ,AL WRGXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371166
+#EXTINF:-1 ,TX KTSMⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371167
+#EXTINF:-1 ,IN WFIEⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371168
+#EXTINF:-1 ,AK KTVFⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371169
+#EXTINF:-1 ,MI WEYIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371170
+#EXTINF:-1 ,CA KSEEⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371171
+#EXTINF:-1 ,IN WPTAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371172
+#EXTINF:-1 ,CO KKCOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371173
+#EXTINF:-1 ,MI WOODⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371174
+#EXTINF:-1 ,HI KHNLⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371175
+#EXTINF:-1 ,AL WAFFⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371176
+#EXTINF:-1 ,NE WOWTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371177
+#EXTINF:-1 ,IL WGEMⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371178
+#EXTINF:-1 ,AL WPMIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371179
+#EXTINF:-1 ,CA KSBWⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371180
+#EXTINF:-1 ,AL WSFAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371181
+#EXTINF:-1 ,KY WAVEⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371182
+#EXTINF:-1 ,GA WMGTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371183
+#EXTINF:-1 ,LA KLAFⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371184
+#EXTINF:-1 ,LA KPLCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371185
+#EXTINF:-1 ,PA WGALⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371186
+#EXTINF:-1 ,MI WILXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371187
+#EXTINF:-1 ,MS WDAMⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371188
+#EXTINF:-1 ,KY WLEXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371189
+#EXTINF:-1 ,AR KARKⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371190
+#EXTINF:-1 ,AR KAITⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371191
+#EXTINF:-1 ,AK KATHⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371192
+#EXTINF:-1 ,LA WBRZⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371193
+#EXTINF:-1 ,AL WBMAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371194
+#EXTINF:-1 ,OH WSYXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371195
+#EXTINF:-1 ,HI KITVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371196
+#EXTINF:-1 ,USA | ABC Huntsville AL WAAYⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371197
+#EXTINF:-1 ,MO KMBCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371198
+#EXTINF:-1 ,NV KTNVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371199
+#EXTINF:-1 ,FL WPBFⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371200
+#EXTINF:-1 ,LA KTBSⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371201
+#EXTINF:-1 ,NY WSYRⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371202
+#EXTINF:-1 ,FL WFTSⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371203
+#EXTINF:-1 ,DC WJLAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371204
+#EXTINF:-1 ,USA | CBS Albany NY WRGBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371205
+#EXTINF:-1 ,NM KRQEⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371206
+#EXTINF:-1 ,PA WTAJⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371207
+#EXTINF:-1 ,GA WGCLⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371208
+#EXTINF:-1 ,GA WRDWⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371209
+#EXTINF:-1 ,USA | CBS Bakersfield. CA KBAKⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371210
+#EXTINF:-1 ,LA WAFBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371211
+#EXTINF:-1 ,AL WIATⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371212
+#EXTINF:-1 ,ID KBOIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371213
+#EXTINF:-1 ,NY WIVBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371214
+#EXTINF:-1 ,VT WCAXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371215
+#EXTINF:-1 ,MI WWTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371216
+#EXTINF:-1 ,MO KFVSⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371217
+#EXTINF:-1 ,IA KGANⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371218
+#EXTINF:-1 ,IL WCIAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371219
+#EXTINF:-1 ,SC WCSCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371220
+#EXTINF:-1 ,TN WDEFⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371221
+#EXTINF:-1 ,CA KFMBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371222
+#EXTINF:-1 ,CO KKTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371223
+#EXTINF:-1 ,SC WLTXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371224
+#EXTINF:-1 ,TX KZTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371225
+#EXTINF:-1 ,IA KCCIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371226
+#EXTINF:-1 ,TX KDBCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371227
+#EXTINF:-1 ,ND KXJBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371228
+#EXTINF:-1 ,MI WNEMⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371229
+#EXTINF:-1 ,FL WINKⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371230
+#EXTINF:-1 ,IN WANEⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371231
+#EXTINF:-1 ,CA KGPEⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371232
+#EXTINF:-1 ,WI WFRVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371233
+#EXTINF:-1 ,NC WNCTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371234
+#EXTINF:-1 ,PA WHPⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371235
+#EXTINF:-1 ,HI KGMBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371236
+#EXTINF:-1 ,WV WOWKⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371237
+#EXTINF:-1 ,MS WJTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371238
+#EXTINF:-1 ,MI WWMTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371239
+#EXTINF:-1 ,WI WKBTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371240
+#EXTINF:-1 ,LA KLFYⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371241
+#EXTINF:-1 ,MI WLNSⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371242
+#EXTINF:-1 ,NV KLASⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371243
+#EXTINF:-1 ,KY WKYTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371244
+#EXTINF:-1 ,NE KOLNⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371245
+#EXTINF:-1 ,AL KAUUⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371246
+#EXTINF:-1 ,KY WLKYⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371247
+#EXTINF:-1 ,GA WMAZⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371248
+#EXTINF:-1 ,AL WKRGⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371249
+#EXTINF:-1 ,AL WAKAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371250
+#EXTINF:-1 ,OK KWTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371251
+#EXTINF:-1 ,NE KMTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371252
+#EXTINF:-1 ,ME WGMEⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371253
+#EXTINF:-1 ,OR KOINⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371254
+#EXTINF:-1 ,RI WPRIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371255
+#EXTINF:-1 ,NV KTVNⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371256
+#EXTINF:-1 ,VA WDBJⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371257
+#EXTINF:-1 ,NY WROCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371258
+#EXTINF:-1 ,CA KIONⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371259
+#EXTINF:-1 ,UT KUTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371260
+#EXTINF:-1 ,CA KCOYⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371261
+#EXTINF:-1 ,USA | CBS Scranton. PA WYOUⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371262
+#EXTINF:-1 ,SD KELOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371263
+#EXTINF:-1 ,SC WSPAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371264
+#EXTINF:-1 ,MA WSHMⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371265
+#EXTINF:-1 ,MO KOLRⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371266
+#EXTINF:-1 ,FL WCTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371267
+#EXTINF:-1 ,OH WTOLⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371268
+#EXTINF:-1 ,AZ KOLDⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371269
+#EXTINF:-1 ,OK KOTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371270
+#EXTINF:-1 ,TX KYTXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371271
+#EXTINF:-1 ,KS KWCHⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371272
+#EXTINF:-1 ,NC WWAYⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371273
+#EXTINF:-1 ,WA KIMAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371274
+#EXTINF:-1 ,OH WKBNⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371275
+#EXTINF:-1 ,NY WXXAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371276
+#EXTINF:-1 ,GA WFXGⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371277
+#EXTINF:-1 ,IL WYZZⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371278
+#EXTINF:-1 ,VT WFFFⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371279
+#EXTINF:-1 ,FL WFTXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371280
+#EXTINF:-1 ,CO KXRMⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371281
+#EXTINF:-1 ,GA WXTXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371282
+#EXTINF:-1 ,OR KLSRⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371283
+#EXTINF:-1 ,ND KVRRⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371284
+#EXTINF:-1 ,IN WFFTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371285
+#EXTINF:-1 ,MI WXMIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371286
+#EXTINF:-1 ,NC WGHPⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371287
+#EXTINF:-1 ,MS WXXVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371288
+#EXTINF:-1 ,USA | FOX Harrisburg. PA WPMTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371289
+#EXTINF:-1 ,FL WFOXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371290
+#EXTINF:-1 ,PA WWCPⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371291
+#EXTINF:-1 ,WI WLAXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371292
+#EXTINF:-1 ,LA KADNⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371293
+#EXTINF:-1 ,AR KLRTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371294
+#EXTINF:-1 ,TX KFXKⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371295
+#EXTINF:-1 ,KY WDRBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371296
+#EXTINF:-1 ,TN WHBQⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371297
+#EXTINF:-1 ,AL WALAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371298
+#EXTINF:-1 ,SC WFXBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371299
+#EXTINF:-1 ,CA 2KTVUⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371300
+#EXTINF:-1 ,MO KRBKⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371301
+#EXTINF:-1 ,OR KPTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371302
+#EXTINF:-1 ,RI WNACⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371303
+#EXTINF:-1 ,VA WFXRⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371304
+#EXTINF:-1 ,CA KCBAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371305
+#EXTINF:-1 ,CA KKFXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371306
+#EXTINF:-1 ,WA KAYUⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371307
+#EXTINF:-1 ,MA WGGBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371308
+#EXTINF:-1 ,OH WUPWⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371309
+#EXTINF:-1 ,WA KCYUⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371310
+#EXTINF:-1 ,AZ KMSBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371311
+#EXTINF:-1 ,OK KOKIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371312
+#EXTINF:-1 ,FL WFLXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371313
+#EXTINF:-1 ,GA WUPAⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371314
+#EXTINF:-1 ,USA | PBS Minnesota Minneapolis KTCAⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371315
+#EXTINF:-1 ,USA | CW31 Sacramento CA KMAXⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371316
+#EXTINF:-1 ,CA KBCWⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371317
+#EXTINF:-1 ,WA KSTWⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371318
+#EXTINF:-1 ,FL WTOGⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371319
+#EXTINF:-1 ,AK KATNⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371320
+#EXTINF:-1 ,AK KJUDⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371321
+#EXTINF:-1 ,AL WDHNⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371322
+#EXTINF:-1 ,AL WNCFⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371323
+#EXTINF:-1 ,CA KGOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371324
+#EXTINF:-1 ,CA KEROⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371325
+#EXTINF:-1 ,CA KESQⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371326
+#EXTINF:-1 ,CA KEYTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371327
+#EXTINF:-1 ,CA KRCRⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371328
+#EXTINF:-1 ,CA KAEFⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371329
+#EXTINF:-1 ,CA KECYⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371330
+#EXTINF:-1 ,CO KJCTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371331
+#EXTINF:-1 ,CO KRDOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371332
+#EXTINF:-1 ,FL WMBBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371333
+#EXTINF:-1 ,FL WTXLⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371334
+#EXTINF:-1 ,NE KHGIⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371335
+#EXTINF:-1 ,ID KIFIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371336
+#EXTINF:-1 ,ND KBMYⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371337
+#EXTINF:-1 ,MT KSVIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371338
+#EXTINF:-1 ,MT KTMFⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371339
+#EXTINF:-1 ,SD KOTAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371340
+#EXTINF:-1 ,NC WCTIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371341
+#EXTINF:-1 ,ND WDAYⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371342
+#EXTINF:-1 ,NY WIVTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371343
+#EXTINF:-1 ,ME WVIIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371344
+#EXTINF:-1 ,TN WTVCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371345
+#EXTINF:-1 ,MN WDIOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371346
+#EXTINF:-1 ,MN KAALⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371347
+#EXTINF:-1 ,AZ KGUNⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371348
+#EXTINF:-1 ,VA WVECⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371349
+#EXTINF:-1 ,PA WNEPⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371350
+#EXTINF:-1 ,AR KAITⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371351
+#EXTINF:-1 ,VA WVAWⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371352
+#EXTINF:-1 ,OH WOHLⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371353
+#EXTINF:-1 ,NY WENYⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371354
+#EXTINF:-1 ,KY WBKOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371355
+#EXTINF:-1 ,IN WPBYⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371356
+#EXTINF:-1 ,MT KWYBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371357
+#EXTINF:-1 ,USA | ABC Local 10 Miami
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371358
+#EXTINF:-1 ,KS KTKAⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371359
+#EXTINF:-1 ,NC WWAYⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371360
+#EXTINF:-1 ,MT KFBBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371361
+#EXTINF:-1 ,OR KEZIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371362
+#EXTINF:-1 ,WA KXLYⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371363
+#EXTINF:-1 ,VA WSETⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371364
+#EXTINF:-1 ,MA WLNEⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371365
+#EXTINF:-1 ,OK KTENⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371366
+#EXTINF:-1 ,WI WAOWⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371367
+#EXTINF:-1 ,MD WMDTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371368
+#EXTINF:-1 ,OR KDRVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371369
+#EXTINF:-1 ,VA WHSVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371370
+#EXTINF:-1 ,NY WWTIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371371
+#EXTINF:-1 ,OK KSWOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371372
+#EXTINF:-1 ,IA KCAUⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371373
+#EXTINF:-1 ,PA WJETⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371374
+#EXTINF:-1 ,OH WTVGⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371375
+#EXTINF:-1 ,SC WOLOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371376
+#EXTINF:-1 ,NY WHAMⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371377
+#EXTINF:-1 ,AR KATVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371378
+#EXTINF:-1 ,TN WATEⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371379
+#EXTINF:-1 ,SD KSFYⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371380
+#EXTINF:-1 ,NE KLKNⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371381
+#EXTINF:-1 ,MA WGGBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371382
+#EXTINF:-1 ,IN WPTAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371383
+#EXTINF:-1 ,PA WHTMⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371384
+#EXTINF:-1 ,NC WLOSⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371385
+#EXTINF:-1 ,IN WEHTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371386
+#EXTINF:-1 ,PA WATMⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371387
+#EXTINF:-1 ,NV KOLOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371388
+#EXTINF:-1 ,OH WYTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371389
+#EXTINF:-1 ,IA WOIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371390
+#EXTINF:-1 ,WA KAPPⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371391
+#EXTINF:-1 ,OH WCPOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371392
+#EXTINF:-1 ,SC WPDEⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371393
+#EXTINF:-1 ,ID KIVIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371394
+#EXTINF:-1 ,ID KSAWⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371395
+#EXTINF:-1 ,MI WGTUⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371396
+#EXTINF:-1 ,MI WLAJⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371397
+#EXTINF:-1 ,MI WJRTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371398
+#EXTINF:-1 ,WV WCHSⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371399
+#EXTINF:-1 ,WV WTRFⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371400
+#EXTINF:-1 ,WV WBOYⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371401
+#EXTINF:-1 ,WV WOAYⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371402
+#EXTINF:-1 ,USA | BOSTON MA WCVB
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371403
+#EXTINF:-1 ,GA WALBⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371404
+#EXTINF:-1 ,GA WTVMⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371405
+#EXTINF:-1 ,MS WDAMⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371406
+#EXTINF:-1 ,MS WAPTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371407
+#EXTINF:-1 ,MS WTOKⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371408
+#EXTINF:-1 ,MS WLOXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371409
+#EXTINF:-1 ,MS WABGⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371410
+#EXTINF:-1 ,IL WSILⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371411
+#EXTINF:-1 ,IL WEEKⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371412
+#EXTINF:-1 ,LA KNOEⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371413
+#EXTINF:-1 ,LA WGNOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371414
+#EXTINF:-1 ,LA KLAXⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371415
+#EXTINF:-1 ,LA KATCⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371416
+#EXTINF:-1 ,MO KTVOⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371417
+#EXTINF:-1 ,MO KQTVⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371418
+#EXTINF:-1 ,TX KGNSⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371419
+#EXTINF:-1 ,TX KVIIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371420
+#EXTINF:-1 ,TX KTXSⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371421
+#EXTINF:-1 ,TX KAVUⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371422
+#EXTINF:-1 ,TX KIIIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371423
+#EXTINF:-1 ,TX KXXVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371424
+#EXTINF:-1 ,TX KMIDⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371425
+#EXTINF:-1 ,TX KVIAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371426
+#EXTINF:-1 ,TX KLTVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371427
+#EXTINF:-1 ,TX KRGVⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371428
+#EXTINF:-1 ,AK KSCTⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371429
+#EXTINF:-1 ,AZ KYMAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371430
+#EXTINF:-1 ,AR KNWAⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371431
+#EXTINF:-1 ,CA KMIRⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371432
+#EXTINF:-1 ,ME WWPIⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371433
+#EXTINF:-1 ,MN KMNFⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371434
+#EXTINF:-1 ,MS WNBDⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371435
+#EXTINF:-1 ,USA | Red Bull TVⓧ FHD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371436
+#EXTINF:-1 ,MT KBBJⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371437
+#EXTINF:-1 ,ND KMOTⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371438
+#EXTINF:-1 ,PA WICUⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371439
+#EXTINF:-1 ,TX KBMTⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371440
+#EXTINF:-1 ,TX KLSBⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371441
+#EXTINF:-1 ,TX KFDXⓧ OFFLINE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371442
+#EXTINF:-1 ,USA | UFC 04ⓧ: Cage Warriors 136 | Sat 02 Apr 2022 21:00
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371443
+#EXTINF:-1 ,USA | UFC 03ⓧ: Cage Warriors 136 Prelims | Sat 02 Apr 2022 19:00
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371444
+#EXTINF:-1 ,USA | UFC 02ⓧ: CES MMA 67 | Sat 02 Apr 2022 01:00
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371445
+#EXTINF:-1 ,USA | UFC 01ⓧ: Cage Warriors 135 | Fri 01 Apr 2022 21:00
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371446
+#EXTINF:-1 ,USA | UFC 00ⓧ: Cage Warriors 135 Prelims | Fri 01 Apr 2022 19:00
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371447
+#EXTINF:-1 ,USA | UFC Fight Pass 24/7ⓧ FHD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371448
+#EXTINF:-1 ,USA | MLS 01ⓧ: Chicago Fire v FC Dallas 20:30 (SAT)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371449
+#EXTINF:-1 ,USA | MLS 02ⓧ: Cincinnati v CF Montréal 21:00 (SAT)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371450
+#EXTINF:-1 ,USA | MLS 03ⓧ: Toronto FC v New York City 21:00 (SAT)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371451
+#EXTINF:-1 ,USA | MLS 04ⓧ: Columbus Crew v Nashville SC 23:00 (SAT)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371452
+#EXTINF:-1 ,USA | MLS 05ⓧ: DC United v Atlanta United 00:30 (SUN)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371453
+#EXTINF:-1 ,USA | MLS 06ⓧ: New England Revolution v NY Red Bulls 00:30 (SUN)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371454
+#EXTINF:-1 ,USA | MLS 07ⓧ: Orlando City v Los Angeles FC 00:30 (SUN)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371455
+#EXTINF:-1 ,USA | MLS 08ⓧ: Philadelphia Union v Charlotte Independence 00:30 (SUN)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371456
+#EXTINF:-1 ,USA | MLS 09ⓧ: San Jose Earthquakes v Austin FC 00:30 (SUN)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371457
+#EXTINF:-1 ,USA | MLS 10ⓧ: Inter Miami v Houston Dynamo 01:00 (SUN)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371458
+#EXTINF:-1 ,USA | MLS 11ⓧ: Minnesota United v Seattle Sounders 01:00 (SUN)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371459
+#EXTINF:-1 ,USA | MLB Network Strike zoneⓧ HD (Tuesday and Friday nights only)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371460
+#EXTINF:-1 ,USA | MLB Fixtures 00ⓧ: New York Mets V St. Louis Cardinals | Scheduled | Roger Dean Chevrolet Stadium 2022 Fri 1st 6:05PM
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371461
+#EXTINF:-1 ,USA | MLB Fixtures 01ⓧ: Boston Red Sox V Tampa Bay Rays | Scheduled | Charlotte Sports Park 2022 Fri 1st 6:05PM
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371462
+#EXTINF:-1 ,USA | MLB Fixtures 02ⓧ: Toronto Blue Jays V Pittsburgh Pirates | Scheduled | LECOM Park 2022 Fri 1st 6:05PM
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371463
+#EXTINF:-1 ,USA | MLB Fixtures 03ⓧ: Philadelphia Phillies V Baltimore Orioles | Scheduled | Ed Smith Stadium 2022 Fri 1st 6:05PM
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371464
+#EXTINF:-1 ,USA | MLB Fixtures 04ⓧ: Atlanta Braves V Minnesota Twins | Scheduled | Hammond Stadium 2022 Fri 1st 6:05PM
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371465
+#EXTINF:-1 ,USA | MLB Fixtures 05ⓧ: Kansas City Royals V Oakland Athletics | Scheduled | Hohokam Stadium 2022 Thu 31st 9:05PM
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371466
+#EXTINF:-1 ,USA | MLB Fixtures 06ⓧ:
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371467
+#EXTINF:-1 ,USA | MLB Fixtures 07ⓧ: Los Angeles Dodgers V Texas Rangers | Scheduled | Surprise Stadium 2022 Thu 31st 9:05PM
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371468
+#EXTINF:-1 ,USA | MLB Fixtures 08ⓧ: Oakland Athletics V Chicago White Sox | Scheduled | Camelback Ranch 2022 Fri 1st 9:05PM
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371469
+#EXTINF:-1 ,USA | MLB Fixtures 09ⓧ: Los Angeles Angels V Milwaukee Brewers | Scheduled | American Family Fields of Phoenix 2022 Thu 31st 9:10PM
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371470
+#EXTINF:-1 ,USA | MLB Fixtures 10ⓧ: Cincinnati Reds V Los Angeles Angels | Scheduled | Tempe Diablo Stadium 2022 Fri 1st 9:10PM
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371471
+#EXTINF:-1 ,USA | MLB Fixtures 11ⓧ: Chicago Cubs V Milwaukee Brewers | Scheduled | American Family Fields of Phoenix 2022 Fri 1st 9:10PM
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371472
+#EXTINF:-1 ,USA | MLB Fixtures 12ⓧ:
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371473
+#EXTINF:-1 ,USA | Spectrum SportsNetⓧ FHD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371474
+#EXTINF:-1 ,USA | Root Sports Northwestⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371475
+#EXTINF:-1 ,USA | Black News Channelⓧ FHD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371476
+#EXTINF:-1 ,USA | Altitude Sports 2ⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371477
+#EXTINF:-1 ,USA | MLS 13ⓧ: Colorado Rapids v Real Salt Lake 02:00 (SUN)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371478
+#EXTINF:-1 ,USA | MLS 14ⓧ: Portland Timbers v L.A. Galaxy 21:30 (SUN)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371479
+#EXTINF:-1 ,USA | NBA 01ⓧ: Toronto at Orlando 7:00pm
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371480
+#EXTINF:-1 ,USA | NBA 02ⓧ: Dallas at Washington 7:00pm
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371481
+#EXTINF:-1 ,USA | NBA 03ⓧ: Indiana at Boston 7:30pm
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371482
+#EXTINF:-1 ,USA | NBA 04ⓧ: Sacramento at Houston 8:00pm
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371483
+#EXTINF:-1 ,USA | NBA 05ⓧ: Phoenix at Memphis 8:00pm
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371484
+#EXTINF:-1 ,USA | NBA 06ⓧ: LA Clippers at Milwaukee 8:00pm
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371485
+#EXTINF:-1 ,USA | NBA 07ⓧ: Detroit at Oklahoma City 8:00pm
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371486
+#EXTINF:-1 ,USA | NBA 08ⓧ: Portland at San Antonio 8:30pm
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371487
+#EXTINF:-1 ,USA | NBA 09ⓧ: Minnesota at Denver 9:00pm
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371488
+#EXTINF:-1 ,USA | NBA 10ⓧ: New Orleans at LA Lakers 10:30pm
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371489
+#EXTINF:-1 ,USA | NBA TVⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371490
+#EXTINF:-1 ,USA | NBA TVⓧ FHD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371491
+#EXTINF:-1 ,USA | MC | 90'sⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371492
+#EXTINF:-1 ,USA | MC | Alternativeⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371493
+#EXTINF:-1 ,USA | MC | Dance EDMⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371494
+#EXTINF:-1 ,USA | MC | Hip Hop R&Bⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371495
+#EXTINF:-1 ,USA | MC | Hit Listⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371496
+#EXTINF:-1 ,USA | MC | Indieⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371497
+#EXTINF:-1 ,USA | MC | Kids Only!ⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371498
+#EXTINF:-1 ,USA | MC | Metalⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371499
+#EXTINF:-1 ,USA | MC | Mexicanaⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371500
+#EXTINF:-1 ,USA | MC | Music Choice Maxⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371501
+#EXTINF:-1 ,USA | MC | Musica Urbanaⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371502
+#EXTINF:-1 ,USA | MC | Pop & Countryⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371503
+#EXTINF:-1 ,USA | MC | Pop Hitsⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371504
+#EXTINF:-1 ,USA | MC | Pop Latinoⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371505
+#EXTINF:-1 ,USA | MC | R&B Soulⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371506
+#EXTINF:-1 ,USA | MC | Rapⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371507
+#EXTINF:-1 ,USA | MC | Rockⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371508
+#EXTINF:-1 ,USA | MC | Teen Beatsⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371509
+#EXTINF:-1 ,USA | MC | Throwback Jamzⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371510
+#EXTINF:-1 ,USA | MC | Today's Countryⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371511
+#EXTINF:-1 ,USA | MC | Toddler Tunesⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371512
+#EXTINF:-1 ,USA | MC | Tropicalesⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371513
+#EXTINF:-1 ,USA | MC | Y2Kⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371514
+#EXTINF:-1 ,USA | MC | Brits Hitsⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371515
+#EXTINF:-1 ,USA | MC | Rap 2Kⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371516
+#EXTINF:-1 ,USA | MC | Kids Popⓧoffline
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371517
+#EXTINF:-1 ,USA | NFL Networkⓧ FHD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371518
+#EXTINF:-1 ,USA | NFL Draftkings 24/7ⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371519
+#EXTINF:-1 ,USA | NFL 02: Monday NFL Passⓧ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371520
+#EXTINF:-1 ,USA | NFL Red Zoneⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371521
+#EXTINF:-1 ,USA | NHL Networkⓧ HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371522
+#EXTINF:-1 ,USA | NHL Networkⓧ SD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/371523
+#EXTINF:-1 ,PR | Mega TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372598
+#EXTINF:-1 ,PR | Punto 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372599
+#EXTINF:-1 ,PR | Telemundo
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372600
+#EXTINF:-1 ,PR | WAPA
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372601
+#EXTINF:-1 ,PR | WAPA 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372602
+#EXTINF:-1 ,PR | TeleOnce
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372603
+#EXTINF:-1 ,PR | La X 100.7 FM
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372604
+#EXTINF:-1 ,PR | Teleisla
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372605
+#EXTINF:-1 ,PR | WIPR
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372606
+#EXTINF:-1 ,Latino | A&E
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372607
+#EXTINF:-1 ,Latino | A3S
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372608
+#EXTINF:-1 ,Latino | ADN40
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372609
+#EXTINF:-1 ,Latino | Adrenalina Sports Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372610
+#EXTINF:-1 ,Latino | AMC
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372611
+#EXTINF:-1 ,Latino | America TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372612
+#EXTINF:-1 ,Latino | Animal Planet
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372613
+#EXTINF:-1 ,Latino | Antena 3
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372614
+#EXTINF:-1 ,Latino | AXN
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372615
+#EXTINF:-1 ,Latino | AXN White
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372616
+#EXTINF:-1 ,Latino | AZ Cinema
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372617
+#EXTINF:-1 ,Latino | AZ Corazon
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372618
+#EXTINF:-1 ,Latino | AZ Mundo
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372619
+#EXTINF:-1 ,Latino | Azteca 1
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372620
+#EXTINF:-1 ,Latino | Azteca 7
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372621
+#EXTINF:-1 ,Latino | beIN Sports
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372622
+#EXTINF:-1 ,Latino | beIN Sports La Liga
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372623
+#EXTINF:-1 ,Latino | Cartoonito
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372624
+#EXTINF:-1 ,Latino | Canal 11
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372625
+#EXTINF:-1 ,Latino | Canal 5
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372626
+#EXTINF:-1 ,Latino | Canal De Las Estrellas
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372627
+#EXTINF:-1 ,Latino | Caracol
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372628
+#EXTINF:-1 ,Latino | Caracol Int
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372629
+#EXTINF:-1 ,Latino | Cartoon Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372630
+#EXTINF:-1 ,Latino | Caza y Pezca
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372631
+#EXTINF:-1 ,Latino | Cinecanal
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372632
+#EXTINF:-1 ,Latino | CineLatino
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372633
+#EXTINF:-1 ,Latino | Cinemax
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372634
+#EXTINF:-1 ,Latino | CNN en Espanol
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372635
+#EXTINF:-1 ,Latino | Comedy Central
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372636
+#EXTINF:-1 ,Latino | De Pelicula
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372637
+#EXTINF:-1 ,Latino | Discovery Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372638
+#EXTINF:-1 ,Latino | Discovery en Espanol
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372639
+#EXTINF:-1 ,Latino | Discovery Civilization
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372640
+#EXTINF:-1 ,Latino | Discovery Familia
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372641
+#EXTINF:-1 ,Latino | Discovery H&H
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372642
+#EXTINF:-1 ,Latino | Discovery ID
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372643
+#EXTINF:-1 ,Latino | Discovery Kids
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372644
+#EXTINF:-1 ,Latino | Discovery Science
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372645
+#EXTINF:-1 ,Latino | Discovery Theater
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372646
+#EXTINF:-1 ,Latino | Discovery TLC
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372647
+#EXTINF:-1 ,Latino | Discovery Turbo
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372648
+#EXTINF:-1 ,Latino | Discovery World
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372649
+#EXTINF:-1 ,Latino | Disney Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372650
+#EXTINF:-1 ,Latino | Disney JR
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372651
+#EXTINF:-1 ,Latino | Distrito Comedia
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372652
+#EXTINF:-1 ,Latino | E!
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372653
+#EXTINF:-1 ,Latino | El Garage
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372654
+#EXTINF:-1 ,Latino | El Gourmet
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372655
+#EXTINF:-1 ,Latino | ESPN
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372656
+#EXTINF:-1 ,Latino | ESPN 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372657
+#EXTINF:-1 ,Latino | ESPN 3
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372658
+#EXTINF:-1 ,Latino | ESPN Deportes
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372659
+#EXTINF:-1 ,Latino | ESPN Plus
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372660
+#EXTINF:-1 ,Latino | Estrella TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372661
+#EXTINF:-1 ,Latino | Food Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372662
+#EXTINF:-1 ,Latino | Fox Sports
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372663
+#EXTINF:-1 ,Latino | Fox Sports 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372664
+#EXTINF:-1 ,Latino | Fox Sports 3
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372665
+#EXTINF:-1 ,Latino | Fox Sports Premium
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372666
+#EXTINF:-1 ,Latino | FX
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372667
+#EXTINF:-1 ,Latino | Gala TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372668
+#EXTINF:-1 ,Latino | Glitz
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372669
+#EXTINF:-1 ,Latino | Gol TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372670
+#EXTINF:-1 ,Latino | Golden Edge
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372671
+#EXTINF:-1 ,Latino | Golden Plus
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372672
+#EXTINF:-1 ,Latino | Golden Premier
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372673
+#EXTINF:-1 ,Latino | Golf Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372674
+#EXTINF:-1 ,Latino | HBO
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372675
+#EXTINF:-1 ,Latino | HBO 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372676
+#EXTINF:-1 ,Latino | HBO Family
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372677
+#EXTINF:-1 ,Latino | HBO Plus
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372678
+#EXTINF:-1 ,Latino | HBO PoP
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372679
+#EXTINF:-1 ,Latino | HBO Signature
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372680
+#EXTINF:-1 ,Latino | HBO Xtreme
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372681
+#EXTINF:-1 ,Latino | HGTV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372682
+#EXTINF:-1 ,Latino | History 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372683
+#EXTINF:-1 ,Latino | History Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372684
+#EXTINF:-1 ,Latino | Lifetime
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372685
+#EXTINF:-1 ,Latino | MTV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372686
+#EXTINF:-1 ,Latino | Multimedios
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372687
+#EXTINF:-1 ,Latino | Nat Geo
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372688
+#EXTINF:-1 ,Latino | Nick
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372689
+#EXTINF:-1 ,Latino | Nick Jr
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372690
+#EXTINF:-1 ,Latino | Nicktoons
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372691
+#EXTINF:-1 ,Latino | Paramount
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372692
+#EXTINF:-1 ,Latino | Pasiones
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372693
+#EXTINF:-1 ,Latino | RCN
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372694
+#EXTINF:-1 ,Latino | Sony
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372695
+#EXTINF:-1 ,Latino | Space
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372696
+#EXTINF:-1 ,Latino | Star Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372697
+#EXTINF:-1 ,Latino | Starz Encore
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372698
+#EXTINF:-1 ,Latino | Starz Kids & Family
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372699
+#EXTINF:-1 ,Latino | Studio Universal
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372700
+#EXTINF:-1 ,Latino | SyFy
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372701
+#EXTINF:-1 ,Latino | TBS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372702
+#EXTINF:-1 ,Latino | TCM
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372703
+#EXTINF:-1 ,Latino | Telehit
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372704
+#EXTINF:-1 ,Latino | Telemundo Int
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372705
+#EXTINF:-1 ,Latino | TLnovelas
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372706
+#EXTINF:-1 ,Latino | TNT
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372707
+#EXTINF:-1 ,Latino | TNT Series
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372708
+#EXTINF:-1 ,Latino | Tooncast
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372709
+#EXTINF:-1 ,Latino | TruTV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372710
+#EXTINF:-1 ,Latino | TVC
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372711
+#EXTINF:-1 ,Latino | TVC Deportes
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372712
+#EXTINF:-1 ,Latino | TyC Sports
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372713
+#EXTINF:-1 ,Latino | Unicable
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372714
+#EXTINF:-1 ,Latino | Unimas
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372715
+#EXTINF:-1 ,Latino | Universal Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372716
+#EXTINF:-1 ,Latino | VH1
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372717
+#EXTINF:-1 ,Latino | VH1 Classics
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372718
+#EXTINF:-1 ,Latino | Warner
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372719
+#EXTINF:-1 ,Latino | Win Sports
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372720
+#EXTINF:-1 ,Latino | Win Sports +
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372721
+#EXTINF:-1 ,Latino | Canal 44
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372722
+#EXTINF:-1 ,Latino | Televisa MTY
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372723
+#EXTINF:-1 ,Latino | ESPN 4
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372724
+#EXTINF:-1 ,Latino | WAPA America
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372725
+#EXTINF:-1 ,Latino | Golden
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372726
+#EXTINF:-1 ,Latino | HBO Mundi
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372727
+#EXTINF:-1 ,Latino | Bandamax
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372728
+#EXTINF:-1 ,Latino | Starz Edge
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372729
+#EXTINF:-1 ,MX : BANDAMAX BX ● Musica  @
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389711
+#EXTINF:-1 ,MX : MAS CHIC
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389712
+#EXTINF:-1 ,MX : Canal 22 Jalisco
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389713
+#EXTINF:-1 ,MX: Animal Planet
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389714
+#EXTINF:-1 ,CUBA : DISCOVERY SCIENCE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389715
+#EXTINF:-1 ,CUL : DISCOVERY CIVILIZATION ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389716
+#EXTINF:-1 ,CUL: LOVE NATURE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389717
+#EXTINF:-1 ,MX : DIRECTV Sports 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389718
+#EXTINF:-1 ,ESPN DEPORTES  MX @
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389719
+#EXTINF:-1 ,MX : FORO TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389720
+#EXTINF:-1 ,FOX DEPORTES MX  (Baseball MLB Beisbol) @
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389721
+#EXTINF:-1 ,MX : FOX PREMIUM ACTION
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389722
+#EXTINF:-1 ,NICA // CANAL 8  TN //
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389723
+#EXTINF:-1 ,MX : FOX SPORTS 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389724
+#EXTINF:-1 ,MX : FOX SPORTS 3
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389725
+#EXTINF:-1 ,MX: Fox Sports 1 ESPN4
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389726
+#EXTINF:-1 ,RP // YUNA VISION CANAL 10 //
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389727
+#EXTINF:-1 ,MX : Afizzionados Deportes Sports ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389728
+#EXTINF:-1 ,MX : HBO 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389729
+#EXTINF:-1 ,MX : Televisa (Leon) Del Bajio
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389730
+#EXTINF:-1 ,MX : HBO Signature
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389731
+#EXTINF:-1 ,MX : HBO Xtreme
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389732
+#EXTINF:-1 ,MX :  HBO POP
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389733
+#EXTINF:-1 ,-----------------
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389734
+#EXTINF:-1 ,MX : Las estrellas 1 Normal
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389735
+#EXTINF:-1 ,MX : Las Estrellas 2 ● @
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389736
+#EXTINF:-1 ,cul // ON DIRECTV @ O DTV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389737
+#EXTINF:-1 ,MX : PASIONES
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389738
+#EXTINF:-1 ,cn : Showtime
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389739
+#EXTINF:-1 ,MX : Televisa Puebla HD
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389740
+#EXTINF:-1 ,MX : STARZ COMEDY
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389741
+#EXTINF:-1 ,/Cine ᴴᴰ /  Starz Encore (Ingles 50Mb)
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389742
+#EXTINF:-1 ,TNT NOVELAS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389743
+#EXTINF:-1 ,INF: Tooncast ● @
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389744
+#EXTINF:-1 ,MX : TYC sports Intern.
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389745
+#EXTINF:-1 ,MX: Canal 8  Ocho Monterrey
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389746
+#EXTINF:-1 ,MX: A+
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389747
+#EXTINF:-1 ,MX: ADN40 @
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389748
+#EXTINF:-1 ,MX: Adrenalina Sport Network
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389749
+#EXTINF:-1 ,DEPORTE: Afizzionados deporte MX
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389750
+#EXTINF:-1 ,MX: AMC
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389751
+#EXTINF:-1 ,MX : CINEMAX
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389752
+#EXTINF:-1 ,MX: AXN
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389753
+#EXTINF:-1 ,MX: AZ Cinema Azteca ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389754
+#EXTINF:-1 ,MX: Az Click ● @ Azteca
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389755
+#EXTINF:-1 ,MX: AZ Corazon
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389756
+#EXTINF:-1 ,MX: AZ Mundo ● @ Azteca
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389757
+#EXTINF:-1 ,MX: Azteca 7 ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389758
+#EXTINF:-1 ,MX: Azteca Uno ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389759
+#EXTINF:-1 ,MX: Baby TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389760
+#EXTINF:-1 ,MX: BABYFIRST
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389761
+#EXTINF:-1 ,MX: BITME ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389762
+#EXTINF:-1 ,MX: PX SPORTS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389763
+#EXTINF:-1 ,MX: Canal 11 Once
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389764
+#EXTINF:-1 ,MX: Canal 26  Aguascalientes VA+
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389765
+#EXTINF:-1 ,MX: Canal 5 ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389766
+#EXTINF:-1 ,NICA: Cinecanal
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389767
+#EXTINF:-1 ,CNN Rusia  ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389768
+#EXTINF:-1 ,MX: CNN International
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389769
+#EXTINF:-1 ,MX: Comedy Central
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389770
+#EXTINF:-1 ,MX: De Pelicula plus ● @
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389771
+#EXTINF:-1 ,MX: Multimedios Plus  6
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389772
+#EXTINF:-1 ,CUL: Discovery Familia ● @
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389773
+#EXTINF:-1 ,MX: -------------
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389774
+#EXTINF:-1 ,MX: INGENIO TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389775
+#EXTINF:-1 ,MX: Discovery Turbo
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389776
+#EXTINF:-1 ,MX: -------------
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389777
+#EXTINF:-1 ,MX: Disney Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389778
+#EXTINF:-1 ,MX: Distrito Comedia ● @
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389779
+#EXTINF:-1 ,MX: El Gourmet
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389780
+#EXTINF:-1 ,MX: ESPN
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389781
+#EXTINF:-1 ,MX: Espn 3
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389782
+#EXTINF:-1 ,MX: Espn extra
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389783
+#EXTINF:-1 ,MX: Film & Arts
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389784
+#EXTINF:-1 ,MX : Galavision  Alburquerque Santa Fe ● @
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389785
+#EXTINF:-1 ,MX: France 24   ●  ᴴᴰ
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389786
+#EXTINF:-1 ,MX: Fuel TV Moto / patineta
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389787
+#EXTINF:-1 ,MX: FX
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389788
+#EXTINF:-1 ,/Cine ᴴᴰ / FXM ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389789
+#EXTINF:-1 ,MX: GALA TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389790
+#EXTINF:-1 ,MX: Garage TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389791
+#EXTINF:-1 ,■şᴰ - FOX SPORTS 2 Latino ● @
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389792
+#EXTINF:-1 ,MX: Golden Edge
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389793
+#EXTINF:-1 ,MX// Golden Plus
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389794
+#EXTINF:-1 ,MX: MEXICANAL
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389795
+#EXTINF:-1 ,MX: Teleformula @
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389796
+#EXTINF:-1 ,MX: Hola TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389797
+#EXTINF:-1 ,MX: Imagen Tv ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389798
+#EXTINF:-1 ,MX: NU9VE Canal 9 Nueve
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389799
+#EXTINF:-1 ,CUL ::   ISAT  I-sat ● @
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389800
+#EXTINF:-1 ,MX: Lifetime
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389801
+#EXTINF:-1 ,MX: Mexiquense //
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389802
+#EXTINF:-1 ,MX// Milenio TV //
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389803
+#EXTINF:-1 ,MX: MTV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389804
+#EXTINF:-1 ,USA: MTV Hits
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389805
+#EXTINF:-1 ,MX: MTV Live
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389806
+#EXTINF:-1 ,MX: Multimedios Canal 6
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389807
+#EXTINF:-1 ,NICA: Nat Geo Kids
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389808
+#EXTINF:-1 ,MX: Las estrellas 2 - 2 HORAS
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389809
+#EXTINF:-1 ,CUBA: National Geographic
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389810
+#EXTINF:-1 ,INF: Nick 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389811
+#EXTINF:-1 ,MX: Nick Jr
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389812
+#EXTINF:-1 ,MX: Teen NIck
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389813
+#EXTINF:-1 ,INF: Nicktoons ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389814
+#EXTINF:-1 ,MX: Paramount Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389815
+#EXTINF:-1 ,NICA: Sony Channel
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389816
+#EXTINF:-1 ,SPACE latino
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389817
+#EXTINF:-1 ,USA: Starz Encore Black ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389818
+#EXTINF:-1 ,/Cine ᴴᴰ / STARZ Cinema ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389819
+#EXTINF:-1 ,USA: Starz East
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389820
+#EXTINF:-1 ,/Cine ᴴᴰ / STARZ EDGE ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389821
+#EXTINF:-1 ,USA : Starz Encore Action
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389822
+#EXTINF:-1 ,MX: Starz Encore Black
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389823
+#EXTINF:-1 ,USA: Starz Encore Classic
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389824
+#EXTINF:-1 ,24hrs AVATAR: A LENDA DE KORRA
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389825
+#EXTINF:-1 ,MX: LAS SPORTS  Nba Nhl Mlb
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389826
+#EXTINF:-1 ,/Cine ᴴᴰ / Starz Encore Western ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389827
+#EXTINF:-1 ,MX: Studio Universal
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389828
+#EXTINF:-1 ,MX: Sundance TV
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389829
+#EXTINF:-1 ,NICA // CANAL 9
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389830
+#EXTINF:-1 ,PY: LA TELE
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389831
+#EXTINF:-1 ,MX: TDN HD ●
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389832
+#EXTINF:-1 ,MX: TDN
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389833
+#EXTINF:-1 ,MX: Telemax TLM
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389834
+#EXTINF:-1 ,MX: Telenovelas
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389835
+#EXTINF:-1 ,TLC Latino
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389836
+#EXTINF:-1 ,MX: TNT   //
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389837
+#EXTINF:-1 ,MX: Televisa Tijuana 12 Xewt
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389838
+#EXTINF:-1 ,// D NEWS / Directv News
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389839
+#EXTINF:-1 ,MX: TV mas  TV+ Veracruz  //
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389840
+#EXTINF:-1 ,MX// Unicable ● @
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389841
+#EXTINF:-1 ,NICA: VH1
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389842
+#EXTINF:-1 ,MX: MTV 80 s ●  @ VH1 Classic
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/389843
+#EXTINF:-1 ,Atlanta Hawks
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372159
+#EXTINF:-1 ,Boston Celtics
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372160
+#EXTINF:-1 ,Charlotte Hornets
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372161
+#EXTINF:-1 ,Chicago Bulls
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372162
+#EXTINF:-1 ,Cleveland Cavaliers
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372163
+#EXTINF:-1 ,Dallas Mavericks
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372164
+#EXTINF:-1 ,Denver Nuggets
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372165
+#EXTINF:-1 ,Detroit Pistons
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372166
+#EXTINF:-1 ,Golden State Warriors
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372167
+#EXTINF:-1 ,Houston Rockets
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372168
+#EXTINF:-1 ,Indiana Pacers
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372169
+#EXTINF:-1 ,Los Angeles Clippers
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372170
+#EXTINF:-1 ,Los Angeles Lakers
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372171
+#EXTINF:-1 ,Memphis Grizzlies
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372172
+#EXTINF:-1 ,Miami Heat
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372173
+#EXTINF:-1 ,Milwaukee Bucks
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372174
+#EXTINF:-1 ,Minnesota Timberwolves
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372175
+#EXTINF:-1 ,New Orleans Pelicans
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372176
+#EXTINF:-1 ,New York Knicks
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372177
+#EXTINF:-1 ,Oklahoma City Thunder
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372178
+#EXTINF:-1 ,Orlando Magic
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372179
+#EXTINF:-1 ,Philadelphia 76ers
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372180
+#EXTINF:-1 ,Phoenix Suns
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372181
+#EXTINF:-1 ,Portland Trail Blazers
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372182
+#EXTINF:-1 ,Sacramento Kings
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372183
+#EXTINF:-1 ,San Antonio Spurs
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372184
+#EXTINF:-1 ,Toronto Raptors
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372185
+#EXTINF:-1 ,Utah Jazz
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372186
+#EXTINF:-1 ,Washington Wizards
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372187
+#EXTINF:-1 ,Brooklyn Nets
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372188
+#EXTINF:-1 ,NBA PASS GAME HD 1
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372189
+#EXTINF:-1 ,NBA PASS GAME HD 2
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372190
+#EXTINF:-1 ,NBA PASS GAME HD 3
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372191
+#EXTINF:-1 ,NBA PASS GAME HD 4
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372192
+#EXTINF:-1 ,NBA PASS GAME HD 5
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372193
+#EXTINF:-1 ,NBA PASS GAME HD 6
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372194
+#EXTINF:-1 ,NBA PASS GAME HD 7
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372195
+#EXTINF:-1 ,NBA PASS GAME HD 8
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372196
+#EXTINF:-1 ,NBA PASS GAME HD 9
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372197
+#EXTINF:-1 ,NBA PASS GAME HD 10
+http://darg.site:2082/josper/pfBsM9GSYQZNnew/372198
