@@ -103,14 +103,10 @@ http://45.166.92.22:58001/play/a04x/index.m3u8
 http://45.166.92.22:58001/play/a016/index.m3u8
 #EXTINF:-1,HTV
 http://45.166.92.22:58001/play/a051/index.m3u8
-#EXTINF:-1,HUSTLER HD XXX
-http://45.166.92.22:58001/play/a04s/index.m3u8
 #EXTINF:-1,History HD
 http://45.166.92.22:58001/play/a038/index.m3u8
 #EXTINF:-1,Home & Health HD
 http://45.166.92.22:58001/play/a015/index.m3u8
-#EXTINF:-1,MEXICANA XXX
-http://45.166.92.22:58001/play/a05l/index.m3u8
 #EXTINF:-1,MTV SIM HD
 http://45.166.92.22:58001/play/a018/index.m3u8
 #EXTINF:-1,Nat Geo HD
@@ -121,8 +117,6 @@ http://45.166.92.22:58001/play/a032/index.m3u8
 http://45.166.92.22:58001/play/a01l/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://45.166.92.22:58001/play/a01q/index.m3u8
-#EXTINF:-1,Penthouse
-http://45.166.92.22:58001/play/a04c/index.m3u8
 #EXTINF:-1,RT ESPANOL HD
 http://45.166.92.22:58001/play/a05j/index.m3u8
 #EXTINF:-1,SONY HD
